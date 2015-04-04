@@ -1,0 +1,15 @@
+#!/usr/bin/python
+
+class A:
+    var=1
+
+    def printvar(self):
+        print "self.var is %d" % self.var
+        print "A.var is %d" % A.var
+
+a = A()
+a.var = 2
+a.printvar()
+
+A.var = 3
+a.printvar()

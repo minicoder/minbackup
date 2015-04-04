@@ -1,0 +1,4 @@
+ERROR:boto:404 Not Found
+ERROR:boto:{"Error":{"Code":"NotFound","Message":"Topic does not exist","Type":"Sender"},"RequestId":"b01da53a-a080-5467-9ec5-efa5d488ea9f"}
+ERROR:boto:404 Not Found
+ERROR:boto:{"Error":{"Code":"NotFound","Message":"Topic does not exist","Type":"Sender"},"RequestId":"85a79aa9-1306-5bc9-8026-d0366734e531"}
